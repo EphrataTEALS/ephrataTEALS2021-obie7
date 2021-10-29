@@ -10,13 +10,11 @@ public class Problem1 {
         int x = console.nextInt();
 
         int a = 0;
-
+        a=2;
         if (x < 30) {
-            a = 2;
             x++;
             System.out.println("Spongebob Squarepants! " + x);
         } else {
-            a = 2;
             System.out.println("Spongebob Squarepants! " + x);
         }
         System.out.println(a);
