@@ -8,7 +8,7 @@ public static void main(String [] args ){
 Random rannumber = new Random();
     Scanner randnumber = new Scanner (System.in);
     System.out.print("choose a random number: ");
-   int compchoice  = randnumber.nextInt(5);
+   int compchoice  = randnumber.nextInt(30);
    
 
     
